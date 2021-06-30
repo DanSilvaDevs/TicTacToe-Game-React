@@ -1,4 +1,4 @@
-#This is the React Application WITHOUT node_modules folder, due to size
+# This is the React Application WITHOUT node_modules folder, due to size
 
 # Getting Started with Create React App
 
