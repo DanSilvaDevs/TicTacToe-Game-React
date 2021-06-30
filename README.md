@@ -1,3 +1,5 @@
+#This is the React Application WITHOUT node_modules folder, due to size
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
